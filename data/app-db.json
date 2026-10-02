@@ -1,0 +1,118 @@
+{
+  "users": [
+    {
+      "id": "5b0898c5-2463-480a-b36f-509c45ff535e",
+      "name": "Prakash Rawat",
+      "email": "prakashrawatitgopeshwar@gmail.com",
+      "passwordHash": "c12fa86ce0b8b362749d52e0902479ee:c8ab6a5f8ba21c335870df12960d53ddd2b3bdb343d702aab847eeb5c12788b1c1b6a76d34d7e35c15d580b7768feb8efc759f629d8e06ddc70c0cfca81f322a",
+      "role": "provider",
+      "createdAt": "2026-10-02T09:51:32.675Z",
+      "emailVerified": false
+    },
+    {
+      "id": "f0683814-5709-4b0b-8399-39592c7be6c1",
+      "name": "Site Administrator",
+      "email": "your-admin@example.com",
+      "passwordHash": "08df675a9051ff45563ba856ba6f788d:3c847a8ea229a9ab615aec8d99eb88b69f785a8102ef77f24b5bd19d965dfb591ca564f56979906eab43879e4b8b6f8863c3f7e7945ed8a11dd29a92e50a04a3",
+      "role": "admin",
+      "createdAt": "2026-10-02T10:19:55.074Z",
+      "emailVerified": true
+    },
+    {
+      "id": "c2229408-3cb3-4d2e-94df-e18bbac9fc9f",
+      "name": "Site Administrator",
+      "email": "you@example.com",
+      "passwordHash": "Parkash@321",
+      "role": "admin",
+      "createdAt": "2026-10-02T10:23:25.400Z",
+      "emailVerified": true
+    },
+    {
+      "id": "316a49e9-d7fc-4f2e-b849-a85470f8d218",
+      "name": "surja",
+      "email": "prakash.singh2@ust.com",
+      "passwordHash": "d33d31e1a3d86bcb988c3eafa338017b:a19d21a96abbf04c5da6960dbd4e1f83bb0419ec1c39b112f76373774edd1f623b41023bad973b2da589018429aead01157cffac51c778ab637cb0a308c37ec4",
+      "role": "traveller",
+      "createdAt": "2026-10-02T10:50:39.720Z",
+      "emailVerified": false
+    }
+  ],
+  "providers": [
+    {
+      "id": "8f605495-2f23-4b13-b097-abcd1f6a5f9c",
+      "userId": "5b0898c5-2463-480a-b36f-509c45ff535e",
+      "businessName": "hjjk7088",
+      "type": "stay",
+      "phone": "7088600873",
+      "description": "cnS  nlkcnklmns",
+      "status": "pending",
+      "createdAt": "2026-10-02T10:53:29.198Z"
+    }
+  ],
+  "bookings": [
+    {
+      "id": "f87df318-ea6c-4f58-83ac-4e180f28f490",
+      "userId": "316a49e9-d7fc-4f2e-b849-a85470f8d218",
+      "kind": "stay",
+      "destination": "Mukteshwar",
+      "startDate": "2026-10-15",
+      "guests": 2,
+      "contact": "7088600873",
+      "notes": "jhijkhjljo",
+      "status": "requested",
+      "estimatedPrice": 0,
+      "createdAt": "2026-10-02T10:51:15.405Z"
+    }
+  ],
+  "trips": [],
+  "audit": [
+    {
+      "at": "2026-10-02T10:54:18.096Z",
+      "actor": "5b0898c5-2463-480a-b36f-509c45ff535e",
+      "action": "login",
+      "detail": "Successful login"
+    },
+    {
+      "at": "2026-10-02T10:53:29.198Z",
+      "actor": "5b0898c5-2463-480a-b36f-509c45ff535e",
+      "action": "provider_apply",
+      "detail": "hjjk7088"
+    },
+    {
+      "at": "2026-10-02T10:52:50.758Z",
+      "actor": "5b0898c5-2463-480a-b36f-509c45ff535e",
+      "action": "login",
+      "detail": "Successful login"
+    },
+    {
+      "at": "2026-10-02T10:51:15.405Z",
+      "actor": "316a49e9-d7fc-4f2e-b849-a85470f8d218",
+      "action": "booking_request",
+      "detail": "stay at Mukteshwar"
+    },
+    {
+      "at": "2026-10-02T10:50:39.720Z",
+      "actor": "316a49e9-d7fc-4f2e-b849-a85470f8d218",
+      "action": "register",
+      "detail": "New traveller account"
+    },
+    {
+      "at": "2026-10-02T10:23:25.403Z",
+      "actor": "bootstrap",
+      "action": "admin_seed",
+      "detail": "Created initial administrator you@example.com"
+    },
+    {
+      "at": "2026-10-02T10:19:55.076Z",
+      "actor": "bootstrap",
+      "action": "admin_seed",
+      "detail": "Created initial administrator your-admin@example.com"
+    },
+    {
+      "at": "2026-10-02T09:51:32.675Z",
+      "actor": "5b0898c5-2463-480a-b36f-509c45ff535e",
+      "action": "register",
+      "detail": "New traveller account"
+    }
+  ]
+}

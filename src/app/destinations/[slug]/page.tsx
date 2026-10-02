@@ -1,0 +1,6 @@
+import Image from "next/image";
+import Link from "next/link";
+import { notFound } from "next/navigation";
+import { destinations } from "@/data/destinations";
+export function generateStaticParams(){return destinations.map(d=>({slug:d.slug}));}
+export default async function DestinationDetail({params}:{params:Promise<{slug:string}>}){const {slug}=await params;const d=destinations.find(x=>x.slug===slug);if(!d)notFound();return <div className="page-shell"><div className="feature-panel"><div style={{position:"relative",height:340,borderRadius:10,overflow:"hidden"}}><Image src={d.image} alt={`${d.name}, Uttarakhand`} fill sizes="100vw" style={{objectFit:"cover"}}/></div><p className="eyebrow" style={{marginTop:22}}>{d.district} DISTRICT</p><h1 className="page-title">{d.name}</h1><p className="page-intro">{d.description}</p><p><b>Suggested season:</b> {d.bestTime}</p><div className="notice">Verification status: not yet verified for production. Check local conditions, access, permits, weather and official advisories before travelling.</div><p style={{marginTop:20}}><Link className="btn btn-primary" href={`/planner?to=${encodeURIComponent(d.name)}`}>Plan a trip here →</Link></p></div></div>}

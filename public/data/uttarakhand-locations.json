@@ -1,0 +1,401 @@
+[
+  {
+    "district": "Dehradun",
+    "division": "GARHWAL DIVISION",
+    "hubs": [
+      "** Dehradun (Winter Capital)",
+      "Rishikesh (Yoga Capital)",
+      "Mussoorie (Queen of Hills)",
+      "Vikasnagar",
+      "Doiwala",
+      "Chakrata."
+    ],
+    "tehsils": [
+      "** Kalsi",
+      "Tyuni",
+      "Sahaspur",
+      "Clement Town",
+      "Rajpur",
+      "Landour",
+      "Jhajra",
+      "Selakui",
+      "Herbertpur."
+    ],
+    "points": [
+      "** Robber's Cave (Guchhupani)",
+      "Sahastradhara",
+      "Tiger Falls",
+      "Lakshman Jhula",
+      "Ram Jhula",
+      "Tapkeshwar Temple",
+      "Forest Research Institute (FRI)",
+      "Mindrolling Monastery",
+      "Malsi Deer Park",
+      "Cloud's End",
+      "George Everest House",
+      "Gun Hill."
+    ]
+  },
+  {
+    "district": "Haridwar",
+    "division": "GARHWAL DIVISION",
+    "hubs": [
+      "** Haridwar",
+      "Roorkee",
+      "Laksar",
+      "Manglaur."
+    ],
+    "tehsils": [
+      "** Kankhal",
+      "Jawalapur",
+      "Bhagwanpur",
+      "Khanpur",
+      "Piran Kaliyar."
+    ],
+    "points": [
+      "** Har Ki Pauri",
+      "Chandi Devi Temple",
+      "Mansa Devi Temple",
+      "Maya Devi Temple",
+      "Shanti Kunj",
+      "Daksha Mahadev Temple",
+      "Bharat Mata Mandir",
+      "Bhuma Niketan."
+    ]
+  },
+  {
+    "district": "Pauri Garhwal",
+    "division": "GARHWAL DIVISION",
+    "hubs": [
+      "** Pauri",
+      "Srinagar",
+      "Kotdwar",
+      "Lansdowne",
+      "Khirsu."
+    ],
+    "tehsils": [
+      "** Thalisain",
+      "Chaubattakhal",
+      "Satpuli",
+      "Pabo",
+      "Yamkeshwar",
+      "Rikhnikhal",
+      "Bironkhal",
+      "Kaljikhal",
+      "Pokhra",
+      "Nainidanda."
+    ],
+    "points": [
+      "** Tarkeshwar Mahadev",
+      "Kanvashram",
+      "Jwala Devi Temple",
+      "Kyunkaleshwar Mahadev",
+      "Khirsu Viewpoint",
+      "Lansdowne Tip-in-Top",
+      "Bhulla Lake",
+      "Dudhatoli Ranges."
+    ]
+  },
+  {
+    "district": "Tehri Garhwal",
+    "division": "GARHWAL DIVISION",
+    "hubs": [
+      "** New Tehri",
+      "Narendranagar",
+      "Chamba",
+      "Dhanaulti",
+      "Kanatal."
+    ],
+    "tehsils": [
+      "** Pratapnagar",
+      "Ghansali",
+      "Lambgaon",
+      "Devprayag",
+      "Narendra Nagar",
+      "Jaunpur",
+      "Kirtinagar",
+      "Balganga",
+      "Gaja."
+    ],
+    "points": [
+      "** Tehri Dam Reservoir",
+      "Surkanda Devi Temple",
+      "Chandrabadni Temple",
+      "Khatling Glacier",
+      "Sem Mukhem Temple",
+      "Dobra Chanthi Suspension Bridge."
+    ]
+  },
+  {
+    "district": "Uttarkashi",
+    "division": "GARHWAL DIVISION",
+    "hubs": [
+      "** Uttarkashi",
+      "Barkot",
+      "Chinyalisaur",
+      "Bhatwari",
+      "Mori."
+    ],
+    "tehsils": [
+      "** Gangotri",
+      "Yamunotri",
+      "Harsil Valley",
+      "Dunda",
+      "Purola",
+      "Sankri",
+      "Janki Chatti",
+      "Ghangaria",
+      "Netwar."
+    ],
+    "points": [
+      "** Dayara Bugyal",
+      "Har Ki Dun Valley",
+      "Nachiketa Tal",
+      "Dodital Lake",
+      "Gaumukh Glacier",
+      "Gangotri National Park",
+      "Govind Pashu Vihar Sanctuary",
+      "Saptarishi Kund."
+    ]
+  },
+  {
+    "district": "Chamoli",
+    "division": "GARHWAL DIVISION",
+    "hubs": [
+      "** Gopeshwar",
+      "Joshimath",
+      "Karnaprayag",
+      "Gairsain (Summer Capital)."
+    ],
+    "tehsils": [
+      "** Badrinath",
+      "Hemkund Sahib",
+      "Govindghat",
+      "Pokhari",
+      "Tharali",
+      "Ghat",
+      "Dewal",
+      "Gwaldam",
+      "Pipalkoti",
+      "Mana Village",
+      "Malari."
+    ],
+    "points": [
+      "** Valley of Flowers National Park",
+      "Auli Ski Resort",
+      "Roopkund Lake (Skeleton Lake)",
+      "Nanda Devi National Park",
+      "Vasudhara Falls",
+      "Badrinath Temple",
+      "Yog Dhyan Badri",
+      "Vridha Badri."
+    ]
+  },
+  {
+    "district": "Rudraprayag",
+    "division": "GARHWAL DIVISION",
+    "hubs": [
+      "** Rudraprayag",
+      "Ukhimath",
+      "Agastyamuni",
+      "Guptakashi",
+      "Jakholi."
+    ],
+    "tehsils": [
+      "** Kedarnath",
+      "Chopta Valley",
+      "Tungnath",
+      "Sonprayag",
+      "Gaurikund",
+      "Syalsaur",
+      "Triyuginarayan",
+      "Madhyamaheshwar."
+    ],
+    "points": [
+      "** Kedarnath Temple",
+      "Deoria Tal",
+      "Kalimat",
+      "Koteshwar Mahadev Cave",
+      "Rudranath Temple",
+      "Omkareshwar Temple (Ukhimath)."
+    ]
+  },
+  {
+    "district": "Almora",
+    "division": "KUMAON DIVISION",
+    "hubs": [
+      "** Almora",
+      "Ranikhet",
+      "Dwarahat",
+      "Jageshwar."
+    ],
+    "tehsils": [
+      "** Surmoli",
+      "Deghat",
+      "Bhikiyasain",
+      "Sult",
+      "Chaukhutia",
+      "Someshwar",
+      "Syaldeh",
+      "Takula",
+      "Binsar",
+      "Crank's Ridge",
+      "Kasar Devi",
+      "Katarmal",
+      "Majkhali",
+      "Sitlakhet",
+      "Tarikhet."
+    ],
+    "points": [
+      "** Jageshwar Dham Complex",
+      "Kasar Devi Temple",
+      "Chitai Golu Devta Mandir",
+      "Katarmal Sun Temple",
+      "Binsar Wildlife Sanctuary",
+      "Bright End Corner",
+      "Chaubatia Orchards."
+    ]
+  },
+  {
+    "district": "Nainital",
+    "division": "KUMAON DIVISION",
+    "hubs": [
+      "** Nainital",
+      "Haldwani",
+      "Ramnagar",
+      "Bhimtal",
+      "Bhowali."
+    ],
+    "tehsils": [
+      "** Naukuchiatal",
+      "Sattal",
+      "Mukteshwar",
+      "Kaladhungi",
+      "Betalghat",
+      "Pangot",
+      "Ramgarh",
+      "Jeolikote",
+      "Lalkuan",
+      "Kathgodam."
+    ],
+    "points": [
+      "** Naini Lake",
+      "Bhimtal Lake",
+      "Mukteshwar Dham",
+      "Jim Corbett National Park Gate",
+      "Kainchi Dham Ashram",
+      "Eco Cave Gardens",
+      "Naina Peak",
+      "Tiffin Top",
+      "Kilbury Bird Sanctuary."
+    ]
+  },
+  {
+    "district": "Pithoragarh",
+    "division": "KUMAON DIVISION",
+    "hubs": [
+      "** Pithoragarh",
+      "Didihat",
+      "Dharchula",
+      "Munsiari."
+    ],
+    "tehsils": [
+      "** Berinag",
+      "Gangolihat",
+      "Askot",
+      "Jauljibi",
+      "Gunji",
+      "Milam",
+      "Jhulaghat",
+      "Madkot",
+      "Thal",
+      "Pankhabari."
+    ],
+    "points": [
+      "** Panchachuli Peaks",
+      "Milam Glacier",
+      "Patal Bhuvaneshwar Caves",
+      "Askot Musk Deer Sanctuary",
+      "Chandak Hill",
+      "Birthi Falls",
+      "Ralam Glacier",
+      "Narayan Ashram."
+    ]
+  },
+  {
+    "district": "Bageshwar",
+    "division": "KUMAON DIVISION",
+    "hubs": [
+      "** Bageshwar",
+      "Kapkot",
+      "Garur."
+    ],
+    "tehsils": [
+      "** Kausani",
+      "Baijnath",
+      "Kanda",
+      "Song",
+      "Bharari",
+      "Shama Valley."
+    ],
+    "points": [
+      "** Bagnath Temple",
+      "Baijnath Temple Complex",
+      "Pindari Glacier",
+      "Kafni Glacier",
+      "Sunderdhunga Trek",
+      "Rudradhari Falls",
+      "Anashakti Ashram."
+    ]
+  },
+  {
+    "district": "Champawat",
+    "division": "KUMAON DIVISION",
+    "hubs": [
+      "** Champawat",
+      "Tanakpur",
+      "Lohaghat."
+    ],
+    "tehsils": [
+      "** Pati",
+      "Barakot",
+      "Poornagiri",
+      "Shyamlatal",
+      "Devidhura."
+    ],
+    "points": [
+      "** Kranteshwar Mahadev",
+      "Mayavati Ashram",
+      "Banasur Ka Kila",
+      "Purnagiri Temple",
+      "Abbott Mount",
+      "Pancheshwar Mahadev (Kali-Sarda Confluence)."
+    ]
+  },
+  {
+    "district": "Udham Singh Nagar",
+    "division": "KUMAON DIVISION",
+    "hubs": [
+      "** Rudrapur",
+      "Kashipur",
+      "Khatima",
+      "Pantnagar",
+      "Kichha."
+    ],
+    "tehsils": [
+      "** Jaspur",
+      "Bajpur",
+      "Gadarpur",
+      "Sitarganj",
+      "Nanakmatta",
+      "Sultanpur."
+    ],
+    "points": [
+      "** Nanakmatta Sahib Gurudwara",
+      "Atariya Temple",
+      "Giri Sarovar Lake",
+      "Chaiti Devi Temple (Kashipur)",
+      "Haripura Dam."
+    ]
+  }
+]

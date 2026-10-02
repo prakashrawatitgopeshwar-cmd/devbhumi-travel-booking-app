@@ -1,0 +1,71 @@
+{
+  "project": "DevBhoomi Himalayan Horizon",
+  "geography": "Uttarakhand only",
+  "pilot": {
+    "route": "Almora\u2013Ranikhet",
+    "operations": "partner-first",
+    "booking": "enquiry first, then quote/review/payment"
+  },
+  "modules": [
+    {
+      "name": "Premium responsive website",
+      "status": "starter included"
+    },
+    {
+      "name": "13-district destination catalogue",
+      "status": "starter sample data; import and verify master JSON"
+    },
+    {
+      "name": "Accurate location-matched imagery",
+      "status": "pending editorial image verification"
+    },
+    {
+      "name": "Mapbox live routes and waypoints",
+      "status": "pending"
+    },
+    {
+      "name": "Fuel and EV cost engine",
+      "status": "pending live data and tested formulas"
+    },
+    {
+      "name": "Verified toll database and vehicle-class tariffs",
+      "status": "pending; never guess prices"
+    },
+    {
+      "name": "Customer authentication and My Trip",
+      "status": "placeholder only"
+    },
+    {
+      "name": "Admin control centre and RBAC",
+      "status": "placeholder only"
+    },
+    {
+      "name": "Stay partner inventory and availability",
+      "status": "pending"
+    },
+    {
+      "name": "Cab partner quotes and driver portal",
+      "status": "pending"
+    },
+    {
+      "name": "Razorpay with server-side signature/webhook",
+      "status": "pending"
+    },
+    {
+      "name": "Email/WhatsApp notifications",
+      "status": "pending"
+    },
+    {
+      "name": "Trip PDF, memories and squads",
+      "status": "pending"
+    },
+    {
+      "name": "Live tracking and SOS dispatch",
+      "status": "pending; not operational"
+    },
+    {
+      "name": "Tests, deployment, backups and monitoring",
+      "status": "pending"
+    }
+  ]
+}
